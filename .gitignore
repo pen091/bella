@@ -1,0 +1,23 @@
+#django
+db.sqlite3
+*.log
+local_settings.py
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Enviroment
+emp/
+venv/
+ENV/
+
+
+#Media & Static
+/static/
+/Media/
+/Staticfiles/
+
+#OS
+.DS_store
+Thumbs.db
+
